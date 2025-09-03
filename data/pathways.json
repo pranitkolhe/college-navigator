@@ -1,0 +1,155 @@
+[
+  {
+    "id": "path-1",
+    "from": "main-entrance",
+    "to": "student-center",
+    "distance": 150,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-2",
+    "from": "student-center",
+    "to": "library",
+    "distance": 120,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-3",
+    "from": "student-center",
+    "to": "cafeteria",
+    "distance": 100,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-4",
+    "from": "student-center",
+    "to": "science-building",
+    "distance": 180,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-5",
+    "from": "library",
+    "to": "gym",
+    "distance": 140,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-6",
+    "from": "cafeteria",
+    "to": "admin-building",
+    "distance": 110,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-7",
+    "from": "science-building",
+    "to": "dormitories",
+    "distance": 160,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-8",
+    "from": "science-building",
+    "to": "north-entrance",
+    "distance": 90,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-9",
+    "from": "parking-a",
+    "to": "main-entrance",
+    "distance": 200,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-10",
+    "from": "parking-a",
+    "to": "gym",
+    "distance": 170,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-11",
+    "from": "admin-building",
+    "to": "main-entrance",
+    "distance": 130,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-12",
+    "from": "dormitories",
+    "to": "cafeteria",
+    "distance": 140,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-13",
+    "from": "gym",
+    "to": "cafeteria",
+    "distance": 120,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-14",
+    "from": "library",
+    "to": "science-building",
+    "distance": 160,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-15",
+    "from": "north-entrance",
+    "to": "dormitories",
+    "distance": 110,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-16",
+    "from": "parking-a",
+    "to": "student-center",
+    "distance": 180,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  },
+  {
+    "id": "path-17",
+    "from": "admin-building",
+    "to": "library",
+    "distance": 150,
+    "surface": "paved",
+    "accessibility": true,
+    "lighting": true
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "main-entrance",
+    "name": "Main Entrance",
+    "x": 50,
+    "y": 90,
+    "type": "entrance",
+    "description": "Primary entrance to the campus with visitor parking nearby",
+    "amenities": ["parking", "information_desk"],
+    "accessibility": true
+  },
+  {
+    "id": "library",
+    "name": "Library",
+    "x": 30,
+    "y": 60,
+    "type": "building",
+    "description": "Central library with study spaces, computer labs, and research facilities",
+    "amenities": ["wifi", "study_rooms", "computers", "printing"],
+    "accessibility": true
+  },
+  {
+    "id": "student-center",
+    "name": "Student Center",
+    "x": 50,
+    "y": 50,
+    "type": "building",
+    "description": "Hub for student activities, dining, and services",
+    "amenities": ["dining", "atm", "student_services", "wifi"],
+    "accessibility": true
+  },
+  {
+    "id": "cafeteria",
+    "name": "Cafeteria",
+    "x": 70,
+    "y": 45,
+    "type": "building",
+    "description": "Main dining facility with various food options",
+    "amenities": ["dining", "seating", "vending_machines"],
+    "accessibility": true
+  },
+  {
+    "id": "gym",
+    "name": "Gym",
+    "x": 20,
+    "y": 30,
+    "type": "building",
+    "description": "Fitness center with exercise equipment and sports facilities",
+    "amenities": ["fitness_equipment", "locker_rooms", "sports_courts"],
+    "accessibility": true
+  },
+  {
+    "id": "admin-building",
+    "name": "Admin Building",
+    "x": 80,
+    "y": 70,
+    "type": "building",
+    "description": "Administrative offices including registrar, financial aid, and admissions",
+    "amenities": ["offices", "meeting_rooms", "wifi"],
+    "accessibility": true
+  },
+  {
+    "id": "parking-a",
+    "name": "Parking Lot A",
+    "x": 15,
+    "y": 80,
+    "type": "parking",
+    "description": "Main student and visitor parking area",
+    "amenities": ["parking", "lighting", "security_cameras"],
+    "accessibility": true
+  },
+  {
+    "id": "science-building",
+    "name": "Science Building",
+    "x": 60,
+    "y": 25,
+    "type": "building",
+    "description": "Science laboratories and classrooms for STEM programs",
+    "amenities": ["labs", "classrooms", "wifi", "safety_equipment"],
+    "accessibility": true
+  },
+  {
+    "id": "dormitories",
+    "name": "Dormitories",
+    "x": 85,
+    "y": 20,
+    "type": "building",
+    "description": "Student residential housing with common areas",
+    "amenities": ["housing", "laundry", "common_areas", "wifi"],
+    "accessibility": true
+  },
+  {
+    "id": "north-entrance",
+    "name": "North Entrance",
+    "x": 50,
+    "y": 10,
+    "type": "entrance",
+    "description": "Secondary entrance near the dormitories and science building",
+    "amenities": ["parking", "bike_racks"],
+    "accessibility": true
+  }
+]

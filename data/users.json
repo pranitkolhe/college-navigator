@@ -1,0 +1,47 @@
+[
+  {
+    "id": "admin-1",
+    "email": "admin@campus.edu",
+    "password": "$2a$10$rOvHPGkwxaXGwxkjrjrjrOeKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+    "name": "Campus Admin",
+    "role": "admin",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "lastLogin": null
+  },
+  {
+    "id": "user-1756131887972",
+    "email": "pranit4@gmail.com",
+    "password": "MTIzNDU2Nzg5MGNhbXB1cy1uYXZpZ2F0b3Itc2VjcmV0LWtleQ==",
+    "name": "pranit",
+    "role": "user",
+    "createdAt": "2025-08-25T14:24:47.972Z",
+    "lastLogin": "2025-08-25T14:25:04.331Z"
+  },
+  {
+    "id": "user-1756131937650",
+    "email": "asd@gmail.com",
+    "password": "MTIzNDU2Nzg5MGNhbXB1cy1uYXZpZ2F0b3Itc2VjcmV0LWtleQ==",
+    "name": "asd",
+    "role": "user",
+    "createdAt": "2025-08-25T14:25:37.650Z",
+    "lastLogin": "2025-08-25T14:25:58.086Z"
+  },
+  {
+    "id": "user-1756132496145",
+    "email": "pranit3@gmail.com",
+    "password": "MTIzNDU2Nzg5MGNhbXB1cy1uYXZpZ2F0b3Itc2VjcmV0LWtleQ==",
+    "name": "pranit",
+    "role": "user",
+    "createdAt": "2025-08-25T14:34:56.145Z",
+    "lastLogin": "2025-08-27T14:37:31.750Z"
+  },
+  {
+    "id": "user-1756182916051",
+    "email": "admin1@gmail.com",
+    "password": "MTIzNDU2Nzg5MGNhbXB1cy1uYXZpZ2F0b3Itc2VjcmV0LWtleQ==",
+    "name": "admin1",
+    "role": "user",
+    "createdAt": "2025-08-26T04:35:16.051Z",
+    "lastLogin": "2025-08-26T04:35:29.484Z"
+  }
+]
