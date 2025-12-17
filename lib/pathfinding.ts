@@ -64,7 +64,7 @@ function dijkstra(
     let current: string | null = null
     let minDist = Infinity
     for (const [node, dist] of distances.entries()) {
-      if (!visited.has(node) && dist < minDist) {
+      if (!visited.has(node) && dist < minDist) { 
         current = node
         minDist = dist
       }

@@ -6,7 +6,10 @@
     "y": 90,
     "type": "entrance",
     "description": "Primary entrance to the campus with visitor parking nearby",
-    "amenities": ["parking", "information_desk"],
+    "amenities": [
+      "parking",
+      "information_desk"
+    ],
     "accessibility": true
   },
   {
@@ -16,7 +19,12 @@
     "y": 60,
     "type": "building",
     "description": "Central library with study spaces, computer labs, and research facilities",
-    "amenities": ["wifi", "study_rooms", "computers", "printing"],
+    "amenities": [
+      "wifi",
+      "study_rooms",
+      "computers",
+      "printing"
+    ],
     "accessibility": true
   },
   {
@@ -26,7 +34,12 @@
     "y": 50,
     "type": "building",
     "description": "Hub for student activities, dining, and services",
-    "amenities": ["dining", "atm", "student_services", "wifi"],
+    "amenities": [
+      "dining",
+      "atm",
+      "student_services",
+      "wifi"
+    ],
     "accessibility": true
   },
   {
@@ -36,7 +49,11 @@
     "y": 45,
     "type": "building",
     "description": "Main dining facility with various food options",
-    "amenities": ["dining", "seating", "vending_machines"],
+    "amenities": [
+      "dining",
+      "seating",
+      "vending_machines"
+    ],
     "accessibility": true
   },
   {
@@ -46,7 +63,11 @@
     "y": 30,
     "type": "building",
     "description": "Fitness center with exercise equipment and sports facilities",
-    "amenities": ["fitness_equipment", "locker_rooms", "sports_courts"],
+    "amenities": [
+      "fitness_equipment",
+      "locker_rooms",
+      "sports_courts"
+    ],
     "accessibility": true
   },
   {
@@ -56,7 +77,11 @@
     "y": 70,
     "type": "building",
     "description": "Administrative offices including registrar, financial aid, and admissions",
-    "amenities": ["offices", "meeting_rooms", "wifi"],
+    "amenities": [
+      "offices",
+      "meeting_rooms",
+      "wifi"
+    ],
     "accessibility": true
   },
   {
@@ -66,7 +91,11 @@
     "y": 80,
     "type": "parking",
     "description": "Main student and visitor parking area",
-    "amenities": ["parking", "lighting", "security_cameras"],
+    "amenities": [
+      "parking",
+      "lighting",
+      "security_cameras"
+    ],
     "accessibility": true
   },
   {
@@ -76,7 +105,12 @@
     "y": 25,
     "type": "building",
     "description": "Science laboratories and classrooms for STEM programs",
-    "amenities": ["labs", "classrooms", "wifi", "safety_equipment"],
+    "amenities": [
+      "labs",
+      "classrooms",
+      "wifi",
+      "safety_equipment"
+    ],
     "accessibility": true
   },
   {
@@ -86,7 +120,12 @@
     "y": 20,
     "type": "building",
     "description": "Student residential housing with common areas",
-    "amenities": ["housing", "laundry", "common_areas", "wifi"],
+    "amenities": [
+      "housing",
+      "laundry",
+      "common_areas",
+      "wifi"
+    ],
     "accessibility": true
   },
   {
@@ -96,7 +135,10 @@
     "y": 10,
     "type": "entrance",
     "description": "Secondary entrance near the dormitories and science building",
-    "amenities": ["parking", "bike_racks"],
+    "amenities": [
+      "parking",
+      "bike_racks"
+    ],
     "accessibility": true
   }
 ]

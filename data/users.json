@@ -2,11 +2,11 @@
   {
     "id": "admin-1",
     "email": "admin@campus.edu",
-    "password": "$2a$10$rOvHPGkwxaXGwxkjrjrjrOeKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+    "password": "MTIzNDU2Y2FtcHVzLW5hdmlnYXRvci1zZWNyZXQta2V5",
     "name": "Campus Admin",
     "role": "admin",
     "createdAt": "2025-01-01T00:00:00.000Z",
-    "lastLogin": null
+    "lastLogin": "2025-11-11T08:08:06.081Z"
   },
   {
     "id": "user-1756131887972",
@@ -43,5 +43,32 @@
     "role": "user",
     "createdAt": "2025-08-26T04:35:16.051Z",
     "lastLogin": "2025-08-26T04:35:29.484Z"
+  },
+  {
+    "id": "user-1761636491021",
+    "email": "pranit@gmail.com",
+    "password": "MTIzNDU2Y2FtcHVzLW5hdmlnYXRvci1zZWNyZXQta2V5",
+    "name": "pranit",
+    "role": "user",
+    "createdAt": "2025-10-28T07:28:11.021Z",
+    "lastLogin": null
+  },
+  {
+    "id": "user-1761972542987",
+    "email": "pranitkolhe@gmail.com",
+    "password": "MTIzNDU2Y2FtcHVzLW5hdmlnYXRvci1zZWNyZXQta2V5",
+    "name": "pranit",
+    "role": "user",
+    "createdAt": "2025-11-01T04:49:02.987Z",
+    "lastLogin": "2025-12-05T06:21:35.497Z"
+  },
+  {
+    "id": "user-1761972592073",
+    "email": "adminacc@gmail.com",
+    "password": "MTIzNDU2Y2FtcHVzLW5hdmlnYXRvci1zZWNyZXQta2V5",
+    "name": "admin",
+    "role": "admin",
+    "createdAt": "2025-11-01T04:49:52.074Z",
+    "lastLogin": "2025-12-05T06:22:43.647Z"
   }
 ]
